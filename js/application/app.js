@@ -1,4 +1,4 @@
 var config = {
-    imagePath: "js/dhtmlx/imgs/",
+    imagePath: "js/dhtmlx/codebase/imgs/",
     iconPath: ""
 };
